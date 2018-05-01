@@ -30,7 +30,7 @@ R Packages:
 
 A step by step series of examples that tell you have to get a development env running
 
-Say what the step will be
+#### RStuido
 
 ```
 install.packages("devtools")
@@ -38,13 +38,15 @@ library(devtools)
 install_github("jdearmas/CatSify")
 ```
 
-And repeat
+#### Git Bash Command-line
 
 ```
-until finished
+mkdir CatSify
+git init
+git clone https://github.com/jdearmas/CatSify.git
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+#### Demo
 
 ## Running the tests
 
