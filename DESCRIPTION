@@ -1,0 +1,18 @@
+Package: CatSify
+Version: 0.1
+Date: 2018-04-26
+Title: Classification of Feline Neurological Activity Using Machine Learning
+Authors@R: c(person("John", "De Armas", email = "dearmas.john1996@gmail.com", role = c("aut","cre")))
+Maintainer: John De Armas <dearmas.john1996@gmail.com>
+Description: The CatSify package performs the following: parse incoming neurological data, perform statistical processing on the data, and finally perform machine learning on the data to classify the neuron data.
+Depends: R (>= 3.1.2)
+Imports: 
+  caret,
+  e1071,
+  randomForest,
+  wavelets
+Suggests: roxygen2,
+License: CCO
+LazyData: true
+URL: https://github.com/jdearmas/intro_to_R
+RoxygenNote: 6.0.1
