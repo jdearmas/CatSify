@@ -7,6 +7,14 @@ An R package to Classify Feline Neurological Activity Using Machine Learning
 
 
 ## Usage
+The R Script **unit_test.R** (*'~/CatSify/R/unit_test.R'*) is a script that runs through the entire package's functions. It is an example script. It performs the:
+#### Major Goals of the Package
+1. Imports Raw Binary Data
+2. Pre-processes the Raw Data
+3. Creates Features
+4. Formats Features to be sent to the caret machine learning package's functions
+5. Outputs the Machine Learning Results
+#### Snippet of 'unit_test.R'
 ```R
 # Import and Preview Binary Cat Brain Data
 bindata         <-CatSify::import_binary_data_file("Data/Cat_Data.bin")
