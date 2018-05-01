@@ -30,6 +30,16 @@ R Packages:
 
 A step by step series of examples that tell you have to get a development env running
 
+#### Recommended (RStuido & Git Bash Command-line)
+```
+*Git Bash Command-line*
+mkdir CatSify
+git init
+git clone https://github.com/jdearmas/CatSify.git
+*RStuido*
+install.packages("~/CatSify/CatSify_0.1.tar.gz", repos = NULL, type = "source")
+```
+
 #### RStuido
 
 ```
