@@ -13,9 +13,11 @@ bindata         <-CatSify::import_binary_data_file("Data/Cat_Data.bin")
 preview_range   <-1900:2000
 preview_bin_data(bindata,preview_range)
 
-# Generate Range of Standard Deviations
+# Generate and Preview Range of Standard Deviations
 desired_std_range     <- -5:5
 range_of_std_of_data  <- CatSify::generate_range_of_stds_of_data(bindata,desired_std_range)
+create_std_plot(preview_range,bindata,desired_std_range,range_of_std_of_data)
+
 ```
 
 
