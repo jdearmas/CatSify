@@ -30,20 +30,20 @@ R Packages:
 
 A step by step series of examples that tell you have to get a development env running
 
-#### Recommended (RStudio & Git Bash Command-line)
+#### 1. Recommended (RStudio & Git Bash Command-line)
 
-**Git Bash Command-line**
+  *Git Bash Command-line*
 ```
-mkdir CatSify
+mkdir ~/CatSify
 git init
 git clone https://github.com/jdearmas/CatSify.git
 ```
-*RStudio*
+  *RStudio*
 ```
 install.packages("~/CatSify/CatSify_0.1.tar.gz", repos = NULL, type = "source")
 ```
 
-#### RStudio
+#### 2. RStudio
 
 ```
 install.packages("devtools")
@@ -51,7 +51,7 @@ library(devtools)
 install_github("jdearmas/CatSify")
 ```
 
-#### Git Bash Command-line
+#### 3. Git Bash Command-line
 
 ```
 mkdir CatSify
