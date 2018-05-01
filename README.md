@@ -6,6 +6,18 @@ An R package to Classify Feline Neurological Activity Using Machine Learning
 </p>
 
 
+## Usage
+```R
+# Import and Preview Binary Cat Brain Data
+bindata         <-CatSify::import_binary_data_file("Data/Cat_Data.bin")
+preview_range   <-1900:2000
+preview_bin_data(bindata,preview_range)
+
+# Generate Range of Standard Deviations
+desired_std_range <- -5:5
+range_of_std_of_data <- generate_range_of_stds_of_data(bindata,desired_std_range)
+```
+
 
 ## Getting Started
 
