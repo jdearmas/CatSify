@@ -1,6 +1,9 @@
 # CatSify
 An R package to Classify Feline Neurological Activity Using Machine Learning
 
+
+<img src="https://github.com/jdearmas/CatSify/blob/master/man/figures/readme_title_image.PNG">
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -27,7 +30,9 @@ A step by step series of examples that tell you have to get a development env ru
 Say what the step will be
 
 ```
-Give the example
+install.packages("devtools")
+library(devtools)
+install_github("jdearmas/CatSify")
 ```
 
 And repeat
