@@ -14,8 +14,8 @@ preview_range   <-1900:2000
 preview_bin_data(bindata,preview_range)
 
 # Generate Range of Standard Deviations
-desired_std_range <- -5:5
-range_of_std_of_data <- generate_range_of_stds_of_data(bindata,desired_std_range)
+desired_std_range     <- -5:5
+range_of_std_of_data  <- CatSify::generate_range_of_stds_of_data(bindata,desired_std_range)
 ```
 
 
