@@ -88,9 +88,6 @@ git clone https://github.com/jdearmas/CatSify.git
 * [Family](https://stackoverflow.com) - The alt-tab winner
 * [Dvorak](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard) - Keyboard
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
