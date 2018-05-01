@@ -1,8 +1,8 @@
 # CatSify
 An R package to Classify Feline Neurological Activity Using Machine Learning
 <p align="center">
-  <img src="https://github.com/jdearmas/CatSify/blob/master/man/figures/readme_title_image2.PNG" width="450" height="350">
-  <img src="https://github.com/jdearmas/CatSify/blob/master/man/figures/readme_title_image.PNG" width="450" height="350">
+  <img src="https://github.com/jdearmas/CatSify/blob/master/man/figures/readme_title_image2.PNG" width="550" height="450">
+  <img src="https://github.com/jdearmas/CatSify/blob/master/man/figures/readme_title_image.PNG" width="550" height="450">
 </p>
 
 
