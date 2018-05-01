@@ -100,8 +100,10 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE) file for details
 
-## Acknowledgments
+## Acknowledgements
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* Dr. David Rabson and Dr. Kendall F. Morris from the Department of Molecular Pharmacology and Physiology were kind enough to allow me to use and publish the cat neuron data they collected from experimentation. 
+Dr. Timothy Fawcett for his guidance and support.
+
+Dr. Alon Friedman for creating an environment that allowed me to create this notebook.
+
+Dr. David Rabson and Dr. Kendall F. Morris from the University of South Floria Department of Molecular Pharmacology and Physiology were kind enough to allow the use and publish of their cat neuron data they collected from experimentation.
